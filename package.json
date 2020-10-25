@@ -1,11 +1,12 @@
 {
-  "name": "MixCentro",
+  "name": "my-awesome-package",
   "version": "1.0.0",
   "description": "A Music App to mix different music",
   "main": "index.js",
   "author": "Sayan Mondal",
   "license": "MIT",
   "dependencies": {
-    "serve": "^11.1.0"
-  }
+    "serve": "^11.3.2"
+  },
+  "repository": "https://woobottle@github.com/S-ayanide/MixCentro.git"
 }
